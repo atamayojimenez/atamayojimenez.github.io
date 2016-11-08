@@ -33,7 +33,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #161415 url(../images/header-background.jpg) no-repeat top center;
+   background: #161415 url(../images/background1.jpg) no-repeat top center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
@@ -325,16 +325,6 @@ ul#nav li.current a { color: #F06000; }
    border-radius: 3px 0 0 3px;
 }
 
-.bussinescultureadaptation {
-  	width: 60%;
-  	-moz-animation: photoshop 2s ease;
-  	-webkit-animation: photoshop 2s ease;
-}
-.adaptation {
-  	width: 55%;
-  	-moz-animation: illustrator 2s ease;
-  	-webkit-animation: illustrator 2s ease;
-}
 .wordpress {
   	width: 10%;
   	-moz-animation: wordpress 2s ease;
@@ -345,16 +335,146 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
 }
-.self_esteem {
-  	width: 80%;
-  	-moz-animation: self_esteem 2s ease;
-  	-webkit-animation: self_esteem 2s ease;
-}
+
 .jquery {
   	width: 50%;
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
 }
+
+
+
+.wordpress {
+  	width: 10%;
+  	-moz-animation: wordpress 2s ease;
+  	-webkit-animation: wordpress 2s ease;
+}
+.css {
+  	width: 90%;
+  	-moz-animation: css 2s ease;
+  	-webkit-animation: css 2s ease;
+}
+
+.jquery {
+  	width: 50%;
+  	-moz-animation: jquery 2s ease;
+  	-webkit-animation: jquery 2s ease;
+}
+
+.adaptation {
+  	width: 63%;
+  	-moz-animation: adaptation 2s ease;
+  	-webkit-animation: adaptation 2s ease;
+}
+
+.bussinescultureadaptation {
+  	width: 73%;
+  	-moz-animation: bussinescultureadaptation 2s ease;
+  	-webkit-animation: bussinescultureadaptation 2s ease;
+}
+.self_esteem{
+  width: 80%;
+  -moz-animation: self_esteem 2s ease;
+  -webkit-animation: self_esteem 2s ease;
+}
+
+.analisisskills {
+  	width: 63%;
+  	-moz-animation: analisisskills 2s ease;
+  	-webkit-animation: analisisskills 2s ease;
+}
+.influenceskills {
+  	width: 65%;
+  	-moz-animation: influenceskills 2s ease;
+  	-webkit-animation: influenceskills 2s ease;
+}
+.reflexionskills {
+  	width: 73%;
+  	-moz-animation: reflexionskills 2s ease;
+  	-webkit-animation: reflexionskills 2s ease;
+}
+.compromise{
+  	width: 63%;
+  	-moz-animation: compromise 2s ease;
+  	-webkit-animation: compromise 2s ease;
+}
+.comunication{
+  	width: 69%;
+  	-moz-animation: comunication 2s ease;
+  	-webkit-animation: comunication 2s ease;
+}
+
+.selfConfidence {
+  	width: 75%;
+  	-moz-animation: selfConfidence 2s ease;
+  	-webkit-animation: selfConfidence 2s ease;
+}
+.dinamism {
+  	width: 78%;
+  	-moz-animation: dinamism 2s ease;
+  	-webkit-animation: dinamism 2s ease;
+}
+.efectiveness {
+  	width: 63%;
+  	-moz-animation: efectiveness 2s ease;
+  	-webkit-animation: efectiveness 2s ease;
+}
+.empathy{
+  	width: 63%;
+  	-moz-animation: empathy 2s ease;
+  	-webkit-animation: empathy 2s ease;
+}
+.energy {
+  	width: 78%;
+  	-moz-animation: Energy 2s ease;
+  	-webkit-animation: Energy 2s ease;
+}
+.emotionalequilibre {
+  	width: 65%;
+  	-moz-animation: emotionalequilibre 2s ease;
+  	-webkit-animation: emotionalequilibre 2s ease;
+}
+.flexiblity {
+  	width: 80%;
+  	-moz-animation: flexiblity 2s ease;
+  	-webkit-animation: flexiblity 2s ease;
+}
+.formality{
+  	width: 65%;
+  	-moz-animation: formality 2s ease;
+  	-webkit-animation: formality 2s ease;
+}
+.soccialskills {
+  	width: 65%;
+  	-moz-animation: soccialskills 2s ease;
+  	-webkit-animation: soccialskills 2s ease;
+}
+.iniciative {
+  	width: 78%;
+  	-moz-animation: iniciative 2s ease;
+  	-webkit-animation: iniciative 2s ease;
+}
+.emotionalinteligence{
+  	width: 80%;
+  	-moz-animation: emotionalinteligence 2s ease;
+  	-webkit-animation: emotionalinteligence 2s ease;
+}
+.organization{
+  	width: 63%;
+  	-moz-animation: organization 2s ease;
+  	-webkit-animation: organization 2s ease;
+}
+.taskorientation{
+  	width: 78%;
+  	-moz-animation: taskorientation 2s ease;
+  	-webkit-animation: taskorientation 2s ease;
+}
+.responsbilit{
+  	width: 65%;
+  	-moz-animation: responsbilit 2s ease;
+  	-webkit-animation: responsbilit 2s ease;
+}
+
 
 @-moz-keyframes photoshop {
   0%   { width: 0px;  }
@@ -405,6 +525,192 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
+/* ------------------------------------------------------------------ */
+/* e. social section
+/* -------------------------------------------------------------------*/
+@-moz-keyframes adaptation {
+  0%   { width: 0px;  }
+  100% { width: 63%;  }
+}
+@-webkit-keyframes adaptation {
+  0%   { width: 0px;  }
+  100% { width: 63%;  }
+}
+@-moz-keyframes bussinescultureadaptation {
+  0%   { width: 0px;  }
+  100% { width: 73%;  }
+}
+@-webkit-keyframes bussinescultureadaptation {
+  0%   { width: 0px;  }
+  100% { width: 73%;  }
+}
+@-moz-keyframes self_esteem {
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
+}
+@-moz-keyframes analisisskills {
+  0%   { width: 0px;  }
+  100% { width: 63%;  }
+}
+@-webkit-keyframes analisisskills {
+  0%   { width: 0px;  }
+  100% { width: 63%;  }
+}
+@-moz-keyframes influenceskills {
+  0%   { width: 0px;  }
+  100% { width: 65%;  }
+}
+@-webkit-keyframes influenceskills {
+  0%   { width: 0px;  }
+  100% { width: 65%;  }
+}
+
+
+@-moz-keyframes reflexionskills {
+  0%   { width: 0px;  }
+  100% { width: 73%;  }
+}
+@-webkit-keyframes reflexionskills {
+  0%   { width: 0px;  }
+  100% { width: 73%;  }
+}
+
+
+@-webkit-keyframes compromise {
+  0%   { width: 0px;  }
+  100% { width: 63%;  }
+}
+
+@-moz-keyframes compromise {
+  0%   { width: 0px;  }
+  100% { width: 63%;  }
+}
+@-webkit-keyframes comunication {
+  0%   { width: 0px;  }
+  100% { width: 69%;  }
+}
+@-moz-keyframes comunication {
+  0%   { width: 0px;  }
+  100% { width: 69%;  }
+}
+@-webkit-keyframes selfConfidence {
+  0%   { width: 0px;  }
+  100% { width: 75%;  }
+}
+@-moz-keyframes selfConfidence {
+  0%   { width: 0px;  }
+  100% { width: 75%;  }
+}
+@-webkit-keyframes dinamism {
+  0%   { width: 0px;  }
+  100% { width: 78%;  }
+}
+@-moz-keyframes dinamism {
+  0%   { width: 0px;  }
+  100% { width: 78%;  }
+}
+@-webkit-keyframes efectiveness {
+  0%   { width: 0px;  }
+  100% { width: 63%;  }
+}
+@-moz-keyframes efectiveness {
+  0%   { width: 0px;  }
+  100% { width: 63%;  }
+}
+@-webkit-keyframes empathy {
+  0%   { width: 0px;  }
+  100% { width: 63%;  }
+}
+@-moz-keyframes empathy {
+  0%   { width: 0px;  }
+  100% { width: 63%;  }
+}
+
+@-moz-keyframes Energy {
+  0%   { width: 0px;  }
+  100% { width: 78%;  }
+}
+@-webkit-keyframes Energy {
+  0%   { width: 0px;  }
+  100% { width: 78%;  }
+}
+@-moz-keyframes emotionalequilibre{
+  0%   { width: 0px;  }
+  100% { width: 65%;  }
+}
+@-webkit-keyframes emotionalequilibre{
+  0%   { width: 0px;  }
+  100% { width: 65%;  }
+}
+@-moz-keyframes flexiblity {
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
+}
+@-webkit-keyframes flexiblity {
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
+}
+@-moz-keyframes formality {
+  0%   { width: 0px;  }
+  100% { width: 65%;  }
+}
+@-webkit-keyframes formality {
+  0%   { width: 0px;  }
+  100% { width: 65%;  }
+}
+@-moz-keyframes soccialskills {
+  0%   { width: 0px;  }
+  100% { width: 65%;  }
+}
+@-webkit-keyframes soccialskills {
+  0%   { width: 0px;  }
+  100% { width: 65%;  }
+}
+
+@-webkit-keyframes iniciative {
+  0%   { width: 0px;  }
+  100% { width: 78%;  }
+}
+@-moz-keyframes iniciative {
+  0%   { width: 0px;  }
+  100% { width: 78%;  }
+}
+@-webkit-keyframes emotionalinteligence {
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
+}
+@-moz-keyframes emotionalinteligence {
+  0%   { width: 0px;  }
+  100% { width: 55%;  }
+}
+@-webkit-keyframes organization {
+  0%   { width: 0px;  }
+  100% { width: 63%;  }
+}
+@-moz-keyframes organization {
+  0%   { width: 0px;  }
+  100% { width: 63%;  }
+}
+@-webkit-keyframes taskorientation {
+  0%   { width: 0px;  }
+  100% { width: 78%;  }
+}
+
+@-moz-keyframes taskorientation {
+  0%   { width: 0px;  }
+  100% { width: 78%;  }
+}
+
+@-webkit-keyframes responsbilit {
+  0%   { width: 0px;  }
+  100% { width: 65%;  }
+}
+@-moz-keyframes responsbilit {
+  0%   { width: 0px;  }
+  100% { width: 65%;  }
+}
+
+
 
 /* ------------------------------------------------------------------ */
 /* e. Portfolio Section
@@ -639,7 +945,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #testimonials {
-   background: #1F1F1F url(../images/testimonials-bg.jpg) no-repeat center center;
+   background: #1F1F1F url(../images/citas.jpg) no-repeat center center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    background-attachment: fixed;
